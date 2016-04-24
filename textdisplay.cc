@@ -37,7 +37,3 @@ void TextDisplay::print() {
     cout << endl;//after each row
   }
 }
-
-bool TextDisplay::wongame() {
-  return false;
-}
