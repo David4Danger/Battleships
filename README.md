@@ -9,9 +9,9 @@ luck of choosing a territory where an opponents ship has been placed. For an in-
 <p>This implementation uses the command line for input. The executable takes in one <i>optional</i> argument, a seed for the
 computer to choose its attack coordinates from. Once the game has begun, you can, at any time, type 'Q' to end the game on the
 spot. Otherwise, you input commands for the territory you want to attack. For example, the top left-most territory is space A1,
-so giving input 'A1' attack thats space on the opponents grid. Invalid input 
+so giving input 'A1' attack thats space on the opponents grid.</p>
 
-The computer moves after the player, and the game continues until the player or the computer wins.</p>
+<p>The computer moves after the player, and the game continues until the player or the computer wins.</p>
 
 <h3> Pictures & Examples </h3>
 
