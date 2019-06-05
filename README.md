@@ -16,18 +16,23 @@ so giving input 'A1' attack thats space on the opponents grid.</p>
 <h3> Pictures & Examples </h3>
 
 <h4>Game initialization</h4>
+
 ![Screenshot](Images/ss1.png)
 
 <h4>First Shot</h4>
+
 ![Screenshot](Images/ss2.png)
 
 <h4>Enemy Hits Player</h4>
+
 ![Screenshot](Images/ss3.png)
 
 <h4>Player Hits Enemy</h4>
+
 ![Screenshot](Images/ss4.png)
 
 <h4>Player Wins Game</h4>
+
 ![Screenshot](Images/ss5.png)
 
 <h3> For Class Model, See UML.png </h3>
